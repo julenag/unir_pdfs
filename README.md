@@ -1,6 +1,6 @@
 # unir_pdfs
 
-Este script de Python combina todos los archivos PDF que se encuentran dentro de una carpeta específica en un solo archivo PDF.
+Script sencillo de Python que combina todos los archivos PDF que se encuentran dentro de una carpeta específica en un solo archivo PDF.
 Bastante útil cuando la teoría de un mismo tema está dividida por subtemas en diferentes PDFs.
 
 ---
